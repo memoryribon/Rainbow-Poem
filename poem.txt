@@ -4,6 +4,7 @@ purple
 lilla
 pink
 orange
+green
 red
 
 There are the colors of the rainbow.
