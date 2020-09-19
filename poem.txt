@@ -20,6 +20,9 @@ orange
 green
 yellow
 red
+scarlet
+indigo
+beige
 
 There are the colors of the rainbow.
 And the unicorn
